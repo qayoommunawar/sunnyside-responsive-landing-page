@@ -15,12 +15,12 @@ Users should be able to:
 - See hover states for all interactive elements on the page
 
 ### Screenshot
-
+[Screenshot](./screenshot.png)
 
 ### Links
 
-- Solution URL: [Gihub Repo Link](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Gihub Repo Link](https://github.com/qayoommunawar/sunnyside-responsive-landing-page)
+- Live Site URL: [Github Live Page](https://qayoommunawar.github.io/sunnyside-responsive-landing-page/)
 
 ## My process
 
